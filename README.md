@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulpandey9" alt="atulpandey9" /></a> </p>
 
-- 🔭 I’m currently working on **Barbers & Hair Cutting website**
-
 - 🌱 I’m currently learning **backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atulpandey9](https://github.com/atulpandey9)
