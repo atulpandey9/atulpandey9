@@ -1,100 +1,18 @@
-```markdown
-# Hi 👋, I'm Atul Pandey
+<h1 align="center">Hi 👋, I'm Atul Pandey</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### 🚀 Backend Developer | Node.js | REST APIs | Open Source Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulpandey9&label=Profile%20views&color=0e75b6&style=flat" alt="atulpandey9" /> </p>
 
-I'm a passionate Backend Developer who enjoys building scalable APIs, solving real-world problems, and continuously learning modern backend technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulpandey9" alt="atulpandey9" /></a> </p>
 
-- 🔭 Currently building backend projects with **Node.js**, **Express.js**, and **MongoDB**
-- 🌱 Learning **Microservices**, **Event-Driven Architecture**, **Docker**, **AWS**, and **System Design**
-- 👯 Looking to contribute to **Open Source** backend projects
-- 💼 Open to **Backend Developer**, **Internship**, and **Entry-Level Software Engineer** opportunities
-- ⚡ Interested in **REST APIs**, Authentication, Databases, Distributed Systems, and Linux
+- 🌱 I’m currently learning **DevOps,System Design, and AWS**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/atulpandey018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulpandey018" height="30" width="40" /></a>
+</p>
 
-# 🌐 Connect With Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-pandey-458130263)
-
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AtulPandey018)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atul3pandey5@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🚀 Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-# 📌 What I'm Working On
-
-- 🔹 Scalable REST APIs
-- 🔹 Authentication & Authorization (JWT)
-- 🔹 Backend System Design
-- 🔹 Microservices
-- 🔹 Open Source Contributions
-- 🔹 DSA for Interviews
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=atulpandey9&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=atulpandey9&theme=github-dark-blue&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atulpandey9&theme=github_dark&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=atulpandey9&theme=algolia&no-frame=true&margin-w=10)
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always excited to collaborate on:
-
-- Backend Projects
-- Open Source
-- REST APIs
-- Developer Tools
-- Node.js Ecosystem
-
-If you're working on something interesting, feel free to reach out!
-
----
-
-![](https://komarev.com/ghpvc/?username=atulpandey9&style=for-the-badge)
-
-> *"Building reliable backend systems, one API at a time."* 🚀
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulpandey9&show_icons=true&locale=en" alt="atulpandey9" /></p>
